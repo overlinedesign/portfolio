@@ -1,0 +1,19 @@
+TRACE 2017-02-19T16:17:40.068 Application launch 
+TRACE 2017-02-19T16:17:40.068 Creating IPC events 
+TRACE 2017-02-19T16:17:40.068 Attempting to use "fr-FR" language 
+TRACE 2017-02-19T16:17:40.069 Creating main window for application 
+TRACE 2017-02-19T16:17:40.137 Initializing user interface for main window 
+TRACE 2017-02-19T16:17:40.144 Initializing display pages for application 
+TRACE 2017-02-19T16:17:40.145 Creating device connection page 
+TRACE 2017-02-19T16:17:40.151 Creating ready to upgrade page 
+TRACE 2017-02-19T16:17:40.157 Creating key cleanup page 
+TRACE 2017-02-19T16:17:40.157 Creating bootloader installer page 
+TRACE 2017-02-19T16:17:40.158 Creating firmware upgrade page 
+TRACE 2017-02-19T16:17:40.158 Creating image upload page 
+TRACE 2017-02-19T16:17:40.158 Creating success page 
+TRACE 2017-02-19T16:17:40.160 Creating error page 
+TRACE 2017-02-19T16:17:40.160 Initializing device connection page 
+TRACE 2017-02-19T16:17:40.180 Starting application run loop 
+TRACE 2017-02-19T16:17:40.189 Performing post-initialization for device connection page 
+TRACE 2017-02-19T16:18:02.438 Uninitializing device connection page 
+TRACE 2017-02-19T16:18:02.441 Application terminating with exit code  0 

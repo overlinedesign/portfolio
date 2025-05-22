@@ -1,0 +1,49 @@
+TRACE 2017-02-19T16:10:47.527 Application launch 
+TRACE 2017-02-19T16:10:47.527 Creating IPC events 
+TRACE 2017-02-19T16:10:47.528 Attempting to use "fr-FR" language 
+TRACE 2017-02-19T16:10:47.528 Creating main window for application 
+TRACE 2017-02-19T16:10:47.620 HID device arrival:  Vendor "46d" product "a51" 
+TRACE 2017-02-19T16:10:47.625 Handling report of size 7 
+TRACE 2017-02-19T16:10:47.625 "Report:  0 6 6 4f 1 5 0 " 
+TRACE 2017-02-19T16:10:47.625 Version: "6.6.79"  ( 6 ,  6 ,  79 ) 
+TRACE 2017-02-19T16:10:47.628 Handling report of size 7 
+TRACE 2017-02-19T16:10:47.629 "Report:  0 a2 16 0 0 0 0 " 
+TRACE 2017-02-19T16:10:47.634 Initializing user interface for main window 
+TRACE 2017-02-19T16:10:47.644 Initializing display pages for application 
+TRACE 2017-02-19T16:10:47.644 Creating device connection page 
+TRACE 2017-02-19T16:10:47.653 Creating ready to upgrade page 
+TRACE 2017-02-19T16:10:47.658 Creating key cleanup page 
+TRACE 2017-02-19T16:10:47.659 Creating bootloader installer page 
+TRACE 2017-02-19T16:10:47.660 Creating firmware upgrade page 
+TRACE 2017-02-19T16:10:47.660 Creating image upload page 
+TRACE 2017-02-19T16:10:47.661 Creating success page 
+TRACE 2017-02-19T16:10:47.662 Creating error page 
+TRACE 2017-02-19T16:10:47.662 Initializing device connection page 
+TRACE 2017-02-19T16:10:47.663 Navigating to next page 
+TRACE 2017-02-19T16:10:47.663 Uninitializing device connection page 
+TRACE 2017-02-19T16:10:47.663 Initializing ready to upgrade page 
+TRACE 2017-02-19T16:10:47.663 Speaker requires firmware update 
+TRACE 2017-02-19T16:10:47.673 Navigating to next page 
+TRACE 2017-02-19T16:10:47.693 Starting application run loop 
+TRACE 2017-02-19T16:10:47.693 Performing post-initialization for ready to upgrade page 
+TRACE 2017-02-19T16:10:47.709 Performing post-initialization for device connection page 
+TRACE 2017-02-19T16:10:58.326 Navigating to next page 
+TRACE 2017-02-19T16:10:58.326 Uninitializing ready to upgrade page 
+TRACE 2017-02-19T16:10:58.326 Initializing key cleanup page 
+TRACE 2017-02-19T16:10:58.343 Performing post-initialization for key cleanup page 
+TRACE 2017-02-19T16:10:58.344 Key cleanup not required for speaker 
+TRACE 2017-02-19T16:10:58.344 Navigating to next page 
+TRACE 2017-02-19T16:10:58.344 Uninitializing key cleanup page 
+TRACE 2017-02-19T16:10:58.344 Initializing bootloader installer page 
+TRACE 2017-02-19T16:10:58.386 Performing post-initialization for bootloader installer page 
+TRACE 2017-02-19T16:10:58.400 HID device removal:  Vendor "46d" product "a51" 
+TRACE 2017-02-19T16:10:58.417 Device "Kora49" removed 
+ERROR 2017-02-19T16:12:58.390 "Dispositif introuvable" 
+TRACE 2017-02-19T16:12:58.391 Uninitializing bootloader installer page 
+TRACE 2017-02-19T16:12:58.391 Initializing error page 
+TRACE 2017-02-19T16:13:26.188 Navigating to previous page 
+TRACE 2017-02-19T16:13:26.188 Uninitializing error page 
+TRACE 2017-02-19T16:13:26.188 Initializing device connection page 
+TRACE 2017-02-19T16:13:26.198 Performing post-initialization for device connection page 
+TRACE 2017-02-19T16:13:55.816 Uninitializing device connection page 
+TRACE 2017-02-19T16:13:55.818 Application terminating with exit code  0 
