@@ -2103,6 +2103,7 @@ ul.slimmenu.collapsed li > ul {
     width: 100%;
     height: auto;
     display: block;
+	margin-bottom: 20px;
 }
 
 .aboutpoint{
