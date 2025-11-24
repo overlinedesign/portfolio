@@ -2100,7 +2100,9 @@ ul.slimmenu.collapsed li > ul {
 }
 
 #pp {
-    float: left;
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 .aboutpoint{
