@@ -2623,26 +2623,17 @@ ul.slimmenu.collapsed li > ul {
 
 @media only screen and (min-width: 1024px) {
 
+	#pp {
+
+    max-width: 560px;
+    float: left;
+    margin-right: 30px;
+
+}
+	
 .cd-item-info {
 
-    position: absolute;
-
-    width: 50%;
-
-    top: 0;
-
-    right: 0;
-
-    padding: 0px 60px 0;
-
-    margin: 0; 
-
-    box-sizing: border-box;
-
-    -moz-box-sizing: border-box;
-
-    -webkit-box-sizing: border-box;
-
+ 
 } 
 
 }
