@@ -1,0 +1,2 @@
+Hi! I'm Thibaut Grenier, a French visual designer currently looking for jobs in the Metz and Luxembourg area.
+I have cross-disciplinary experiences in technology, sales, circular economy, and social innovation. With strong visual observation skills as well as analytical and synthesis abilities, I enjoy designing, organizing, and above all optimizing concrete projects with a sustainable impact within dynamic, learning-oriented organizations.
