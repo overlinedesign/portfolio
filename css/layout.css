@@ -2110,6 +2110,7 @@ ul.slimmenu.collapsed li > ul {
 	margin-right: 10%;
     text-align: left;
     color: #323232;
+	margin-left: 10%;
     }
 
 
@@ -3724,7 +3725,7 @@ p{
 
 
     width:100%;
-
+	margin-left: 8%;
     text-align: center;
 
 }
