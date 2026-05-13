@@ -2107,12 +2107,8 @@ ul.slimmenu.collapsed li > ul {
 }
 
 .aboutpoint{
-    float: left;
+	margin-right: 10%;
     text-align: left;
-    padding-bottom: 20px;
-    max-width: 480px;
-    font-size: 16px;
-    /* line-height: 150%; */
     color: #323232;
     }
 
@@ -2628,6 +2624,10 @@ ul.slimmenu.collapsed li > ul {
     max-width: 560px;
     float: left;
     margin-right: 30px;
+	margin-left: 10%;
+	height: auto;
+    display: block;
+    margin-bottom: 20px;
 
 }
 	
